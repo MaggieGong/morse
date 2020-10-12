@@ -1,5 +1,5 @@
 '''
-This version so far can only encrypt 1 paragraphm maximum. The later versions will be able to encrypt txt files and other types of files as well.
+This version so far can only encrypt 1 paragraphm maximum.
 '''
 morse = {
     "A":".-", "B":"-...", "C":"-.-.", "D":"-..", "E":".", "F":"..-.", "G":"--.", "H":"....", "I":"..", "J":".---", "K":"-.-", "L":".-..", "M":"--", "N":"-.", "O":"---", "P":".--.", "Q":"--.-", "R":".-.", "S":"...", "T":"-", "U":"..-", "V":"...-", "W":".--", "X":"-..-", "Y":"-.--", "Z":"--..",
