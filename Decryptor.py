@@ -1,6 +1,5 @@
 '''
-It is suggested to put the encoded text into one line before decrypting.
-This version so far can only decrypt 1 paragraphm maximum. The later versions will be able to decrypt txt files and other types of files as well.
+This version so far can only decrypt 1 paragraphm maximum.
 '''
 morse = {
     ".-":"a", "-...":"b", "-.-.":"c", "-..":"d", ".":"e", "..-.":"f", "--.":"g", "....":"h", "..":"i", ".---":"j", "-.-":"k", ".-..":"l", "--":"m", "-.":"n", "---":"o", ".--.":"p", "--.-":"q", ".-.":"r", "...":"s", "-":"t", "..-":"u", "...-":"v", ".--":"w", "-..-":"x", "-.--":"y", "--..":"z"
